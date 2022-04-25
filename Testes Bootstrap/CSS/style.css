@@ -1,0 +1,19 @@
+.navbar{
+    background-color: rgb(197, 196, 255);
+    padding-left: 200px;
+}
+
+.aloo {
+    background-color:cadetblue;
+    padding-top:  30px ;
+    padding-bottom: 30px;
+}
+
+.q {
+    background-color: aquamarine;
+}
+
+.bg-footer{
+    background-color: cornflowerblue;
+    padding-bottom: 30px;
+}
